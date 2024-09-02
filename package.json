@@ -4,7 +4,7 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "react-scripts build && cp _redirects build/_redirects",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
